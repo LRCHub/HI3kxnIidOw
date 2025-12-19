@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ド！ド！ド！ (104期Ver.)",
+  "base_artist": "みらくらぱーく！",
+  "createdAt": "2025-12-19T06:04:31.140654Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ド!ド!ド! (104期Ver.)",
+      "artist": "みらくらぱーく!",
+      "has_synced": false,
+      "path": "select/pl_01_ド!ド!ド!_(104期Ver.)_みらくらぱーく!.txt"
+    }
+  ]
+}
